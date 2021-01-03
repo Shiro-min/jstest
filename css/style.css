@@ -1,0 +1,25 @@
+@charset "utf-8";
+body {
+    font-family: 'Noto Sans JP', "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+header {
+    background-color: slateblue;
+}
+
+footer {
+    background-color: slateblue;
+    height: 80px;
+}
+
+h1 {
+    font-size: 40px;
+    color: snow;
+    padding: 20px;
+}
+
+p {
+    font-size: 16px;
+    color: snow;
+    padding: 8px;
+}
